@@ -1,0 +1,5 @@
+wespeaker_alimeeting/exp*
+wespeaker_alimeeting/pretrained_models/*
+__pycache__
+VBx/example
+VBx/exp
