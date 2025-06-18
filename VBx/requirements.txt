@@ -1,0 +1,10 @@
+numpy==1.24.4
+scipy
+scikit-learn
+h5py
+soundfile==0.13.1
+fastcluster==1.2.6
+tqdm
+onnxruntime
+kaldi-io
+pyannote.audio==3.3.0
